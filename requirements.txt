@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+geopandas
+folium
+streamlit-folium
+requests
+python-dotenv
